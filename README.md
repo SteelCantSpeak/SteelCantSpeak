@@ -1,11 +1,11 @@
-# Welcome to [Your Name]'s GitHub Profile
+# SteelCantSpeak
 ![Autism Awareness Badge](https://img.shields.io/static/v1?label=Autism&message=Supporter&color=blue&style=flat) ![Autism Awareness Badge](https://img.shields.io/badge/Social%20Skills-None-purple)
 
-![TODO: ADD Image](link-to-your-banner-image)  <!-- Optional: Add a banner image for your profile -->
+![Fix Banner Image, it broke](https://cdn.discordapp.com/attachments/544815989309833236/1269644418147946596/OverTown.png?ex=66b0d002&is=66af7e82&hm=1f4250241235dedb2e3959361e8b217ea4b852379b1d73689afa620d671f3548&)
 
 ## About Me
 
-Hi there! I'm SteelCantSpeak, a Software developer based in Melbourne, Australia! I specialize in [Your Specializations, e.g., web development, data science, etc.], and I'm passionate about creating innovative solutions and contributing to open source projects.
+Hi there! I'm SteelCantSpeak, a Software developer based in Melbourne, Australia! I specialize in Web Development, but my skills are quite broad, and I'm passionate about creating innovative solutions and contributing to open source projects.
 
 ## What I Do
 
