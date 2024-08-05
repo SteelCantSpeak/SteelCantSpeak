@@ -1,5 +1,5 @@
 # SteelCantSpeak
-![Autism Awareness Badge](https://img.shields.io/static/v1?label=Autism&message=Supporter&color=blue&style=flat) ![Autism Awareness Badge](https://img.shields.io/badge/Social%20Skills-None-purple)
+![Autism Awareness Badge](https://img.shields.io/static/v1?label=Autism&message=Awareness&color=blue&style=flat) ![Autism Awareness Badge](https://img.shields.io/badge/Social%20Skills-None-purple) <img src= "https://www.codewars.com/users/SteelCantSpeak/badges/micro"/>
 
 ![Fix Banner Image, it broke](https://cdn.discordapp.com/attachments/544815989309833236/1269644418147946596/OverTown.png?ex=66b0d002&is=66af7e82&hm=1f4250241235dedb2e3959361e8b217ea4b852379b1d73689afa620d671f3548&)
 
@@ -28,9 +28,12 @@ Here are some of the key repositories you might find interesting:
 While my current stats might appear modest, I am constantly working on new and (hopefully exciting) projects, expanding my knowledge, and honing new skills. My focus is on continuous growth and innovation, ensuring that each day contributes to my development.
 
 ## GitHub Stats
-(Embeds sourced from [readme-stats](https://github.com/anuraghazra/github-readme-stats))
+(Embeds sourced from [readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy))
 
-![GitHub Stats](https://github-clone-api-stats.vercel.app/api?username=SteelCantSpeak&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide=prs&theme=react) ![My Languages](https://github-clone-api-stats.vercel.app/api/top-langs/?username=steelcantspeak&&include_all_commits=true&count_private=true&hide=ShaderLab,HLSL&theme=react&layout=pie)
+![GitHub Stats](https://github-clone-api-stats.vercel.app/api?username=SteelCantSpeak&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide=prs&theme=react)
+
+![My Languages](https://github-clone-api-stats.vercel.app/api/top-langs/?username=steelcantspeak&&include_all_commits=true&count_private=true&hide=ShaderLab,HLSL&theme=react&layout=pie)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SteelCantSpeak)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ## Character Defects
