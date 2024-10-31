@@ -27,12 +27,6 @@ Here are some of the key repositories you might find interesting:
 ## Contributions
 
 While my current stats might appear modest, I am constantly working on new and (hopefully exciting) projects, expanding my knowledge, and honing new skills. My focus is on continuous growth and innovation, ensuring that each day contributes to my development.
-
-## GitHub Stats
-(Embeds sourced from [readme-stats](https://github.com/anuraghazra/github-readme-stats))
-
-![GitHub Stats](https://github-clone-api-stats.vercel.app/api?username=SteelCantSpeak&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide=prs&theme=react) ![My Languages](https://github-clone-api-stats.vercel.app/api/top-langs/?username=steelcantspeak&&include_all_commits=true&count_private=true&hide=ShaderLab,HLSL&theme=react&layout=pie)
-
 <!--
 ## Character Defects
 No Person is complete without some flaws. Mine include the Following:
